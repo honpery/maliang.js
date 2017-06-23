@@ -1,0 +1,1 @@
+export { Maliang } from './maliang';

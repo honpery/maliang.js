@@ -1,0 +1,23 @@
+{
+	"name": "maliang.js",
+	"version": "0.0.1",
+	"description": "Create canvas using css.",
+	"main": "index.js",
+	"dependencies": {},
+	"devDependencies": {
+		"eslint": "^4.0.0",
+		"typescript": "^2.3.4"
+	},
+	"scripts": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/honpery/maliang.js.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/honpery/maliang.js/issues"
+	},
+	"homepage": "https://github.com/honpery/maliang.js#readme"
+}
